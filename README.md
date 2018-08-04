@@ -1,1 +1,1 @@
-# pivx-detached-sigs
+# helix-detached-sigs
